@@ -12,7 +12,7 @@ What's Needed?
 ![alt text](https://github.com/dishanp/Attendance-Manager/blob/main/Zoom%20Sheet.png)
 
 
-Whats Generated?
+Whats' Generated?
 
 
 ![alt text](https://github.com/dishanp/Attendance-Manager/blob/main/Attendance%20Report.png)
